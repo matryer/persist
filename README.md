@@ -1,5 +1,6 @@
 # persist
-Persist loads and saves Go objects to files
+
+Persist loads and saves Go objects to files.
 
 ## Usage
 
