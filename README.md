@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-# persist
-
-Persist loads and saves Go objects to files.
-=======
 # persist [![GoDoc](https://godoc.org/github.com/matryer/persist?status.png)](http://godoc.org/github.com/matryer/persist)
 Persist loads and saves Go objects to files
->>>>>>> FETCH_HEAD
 
 ## Usage
 
